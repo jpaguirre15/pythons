@@ -1,0 +1,31 @@
+participant_id,group_id,language,task_id,time_sec,technique,errors,task_completion,year,py_exp,ethnic_group
+1,1,Python2,1,327,Python2,0,Complete,Graduate,5,White
+1,1,Python2,2,108,Python2,0,Complete,Graduate,5,White
+1,1,Python2,3,56,Python2,0,Complete,Graduate,5,White
+1,1,Python3,4,97,Python3,0,Complete,Graduate,5,White
+1,1,Python3,5,89,Python3,0,Complete,Graduate,5,White
+1,1,Python3,6,243,Python3,0,Complete,Graduate,5,White
+2,2,Python2,4,399,Python2,2,Complete,Graduate,0,Filipino
+2,2,Python2,5,323,Python3,2,Complete,Graduate,0,Filipino
+2,2,Python2,6,144,Python2,1,Complete,Graduate,0,Filipino
+2,2,Python3,1,509,Python3,4,Complete,Graduate,0,Filipino
+2,2,Python3,2,306,Python3,1,Complete,Graduate,0,Filipino
+2,2,Python3,3,900,Incomplete,8,Incomplete,Graduate,0,Filipino
+3,1,Python2,1,144,Hybrid ,0,Complete,Senior,1,Filipino
+3,1,Python2,2,616,Hybrid ,3,Complete,Senior,1,Filipino
+3,1,Python2,3,57,Hybrid ,0,Complete,Senior,1,Filipino
+3,1,Python3,4,307,Python3,2,Complete,Senior,1,Filipino
+3,1,Python3,5,65,Hybrid,0,Complete,Senior,1,Filipino
+3,1,Python3,6,625,Python3,5,Complete,Senior,1,Filipino
+4,2,Python2,4,141,Python2,1,Complete,Senior,2,Asian
+4,2,Python2,5,94,Python2,0,Complete,Senior,2,Asian
+4,2,Python2,6,116,Python2,0,Complete,Senior,2,Asian
+4,2,Python3,1,219,Python3,0,Complete,Senior,2,Asian
+4,2,Python3,2,117,Hybrid,0,Complete,Senior,2,Asian
+4,2,Python3,3,254,Python3,4,Complete,Senior,2,Asian
+5,1,Python2,1,435,Python2,0,Complete,Senior,0,Filipino
+5,1,Python2,2,158,Python2,0,Complete,Senior,0,Filipino
+5,1,Python2,3,743,Python2,2,Complete,Senior,0,Filipino
+5,1,Python3,4,186,Python3,1,Complete,Senior,0,Filipino
+5,1,Python3,5,104,Hybrid,0,Complete,Senior,0,Filipino
+5,1,Python3,6,900,Incomplete,7,Incomplete,Senior,0,Filipino
